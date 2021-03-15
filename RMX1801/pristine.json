@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": "1615781056",
+      "filename": "StagOS-RMX1801-11.0.R2-OFFICIAL-Pristine-20210315-0405.zip",
+      "id": "655bcca5d7ff312ef72b019ba024041813d78653c2cb3400ee2b8cdd261d2bd0",
+      "size": "1097330566",
+      "url": "https://releases.stag-os.workers.dev/RMX1801/StagOS-RMX1801-11.0.R2-OFFICIAL-Pristine-20210315-0405.zip",
+      "version": "11.0.B2"
+    }
+  ]
+}
