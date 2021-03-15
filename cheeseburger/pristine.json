@@ -1,0 +1,10 @@
+{
+	"response": [{
+		"datetime": 1615778441,
+		"filename": "StagOS-cheeseburger-11.0.R2-OFFICIAL-Pristine-20210315-0501.zip",
+		"id": "f5f8b26b5e9c7e764c1d8db051c07801baff729fbd90e2f3b53ca3ac2b2afb49",
+		"size": 1120260911,
+		"url": "https://releases.stag-os.workers.dev/cheeseburger/StagOS-cheeseburger-11.0.R2-OFFICIAL-Pristine-20210315-0501.zip",
+		"version": "11.0.R2"
+	}]
+}
