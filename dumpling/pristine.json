@@ -1,0 +1,10 @@
+{
+	"response": [{
+		"datetime": 1615728480,
+		"filename": "StagOS-dumpling-11.0.R2-OFFICIAL-Pristine-20210314-1858.zip",
+		"id": "8a9ac21dbae11828bf3ce889c0cc5fe75773b7480838633655a546eb4a10fca6",
+		"size": 1120357047,
+		"url": "https://releases.stag-os.workers.dev/dumpling/StagOS-dumpling-11.0.R2-OFFICIAL-Pristine-20210314-1858.zip",
+		"version": "11.0.R2"
+	}]
+}
