@@ -1,0 +1,12 @@
+{ 
+  "response": [
+    {
+     "datetime": "1615966662",
+     "filename": "StagOS-RMX1831-11.0.R2-OFFICIAL-GApps-20210317-0737.zip",
+     "id": "9f6773b707fc3833b52966a70244efc6b0eb42ef5fd1edf794058ee204b2c086",
+     "size": 1239833099, 
+     "url": "https://releases.stag-os.workers.dev/RMX1831/StagOS-RMX1831-11.0.R2-OFFICIAL-GApps-20210317-0737.zip",
+     "version": "11.0.R2" 
+    }
+  ]
+}
