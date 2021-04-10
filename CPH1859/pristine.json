@@ -1,0 +1,10 @@
+{
+	"response": [{
+		"datetime": 1617992383,
+		"filename": "StagOS-CPH1859-11.0.R2-OFFICIAL-Pristine-20210409-1821.zip",
+		"id": "b6ba38b66d05144ff63838390a9e2ca8ebf60ccc5a2a3e0aa436f9113929ee2d",
+		"size": 813110169,
+		"url": "https://releases.stag-os.workers.dev/CPH1859/StagOS-CPH1859-11.0.R2-OFFICIAL-Pristine-20210409-1821.zip",
+		"version": "11.0.R2"
+	}]
+}
