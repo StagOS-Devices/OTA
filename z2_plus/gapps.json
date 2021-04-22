@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1615828000",
-      "filename": "StagOS-z2_plus-11.0.R2-OFFICIAL-GApps-20210315-1708.zip",
-      "id": "7543fcbcffa6712b82c03445c082610cd7cb6d9e3b7b83b16375f8212aa018df",
-      "size": "1356532977",
-      "url": "https://releases.stag-os.workers.dev/z2_plus/StagOS-z2_plus-11.0.R2-OFFICIAL-GApps-20210315-1708.zip",
-      "version": "11.0.R2"
+      "datetime": "1618933537",
+      "filename": "StagOS-z2_plus-11.0.R2.1-OFFICIAL-GApps-20210420-1549.zip",
+      "id": "6c74b490925590004c3bc921ad2f2e50b667ecdf3bd2fa7ef774064c70f1ecbd",
+      "size": "1399134800",
+      "url": "https://releases.stag-os.workers.dev/z2_plus/StagOS-z2_plus-11.0.R2.1-OFFICIAL-GApps-20210420-1549.zip",
+      "version": "11.0.R2.1"
     }
   ]
 }
