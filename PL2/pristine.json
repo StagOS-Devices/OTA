@@ -1,12 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": "1619383695",
-      "filename": "StagOS-PL2-11.0.R2.1-OFFICIAL-Pristine-20210425-2048.zip",
-      "id": "2d83594758e8e396a25f35b6e8828f41fbea4a47cf5eb7dca99acaca1f5412aa",
-      "size": "848078300",
-      "url": "https://releases.stag-os.workers.dev/PL2/StagOS-PL2-11.0.R2.1-OFFICIAL-Pristine-20210425-2048.zip",
-      "version": "11.0.R2.1"
-    }
-  ]
-}
+{ "response": [ { "datetime": 1718047850, "filename": "StagOS-PL2-11.0.R2-OFFICIAL-Pristine-20210403-0406.zip", "id": "82afdb46bd1f7b2dacde666cec8ae873e9cb811f7b5488369aac79f87e3dffe0", "size": 848469783, "url": "https://vjspranav.ryzenbox.me/StagOS-PL2-11.0.R2-OFFICIAL-Pristine-20210403-0406.zip", "version": "11.0.R2", "romtype": "official" } ] }
