@@ -1,3 +1,36 @@
+Hello there guys, it's lovely to be able to pass on another changelog after soo long. We are happy to announce the stunning changelog of this month's release :)
+Added Features:
+  May Security Patch ofc
+  App Lock
+  Gaming Mode
+  Volume Styles
+  Per App volume control
+  Many Clock faces (IDE, SFuNY, Typographic, etc.)
+  Switch Styles (Gradient, Stockish, Telegram styled, etc.)
+  Quick settings battery time estimation
+  Battery light customization
+  Support for a custom toast icon
+  Activity indicators to wifi icon
+  Ability to hide arrow for back gesture
+  Support for per app network isolation
+  Long press power button Torch
+  Dash Charge and Warp Charge support
+  New Music Player and Gallery app
+  PixelPropUtils (Updated fingerprint)
+  Introduce dynamic VoLTE & VoWiFi icons
+  Vibration on gestures
+  Disable/Enable screenshot sound
+  Machine learning back gesture provider
+  Less Boring Headsup option
+  Set our custom build fingerprint
+
+Fixes & Improvements:
+  Updater App (you will get OTA updates from next release without any issues :p)
+  Removed Build version from qs footer
+
+Many under the hood improvements ;)
+Thats all for now, see ya next time ...until then enjoy this release :)
+
 March 15 Changelog
 
 Hello there guys, it's lovely to be able to pass on another changelog after soo long. I haven't been able to update the original feature list, I'm still working on it but here I bring you the changes for this build.
