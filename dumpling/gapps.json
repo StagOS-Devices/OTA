@@ -1,10 +1,12 @@
 {
-	"response": [{
-		"datetime": 1615778441,
-		"filename": "StagOS-dumpling-11.0.R2-OFFICIAL-GApps-20210314-1216.zip",
-		"id": "113977265f86ac82754d0e9dc4e8a0892bb3476beacb31d5cb49173503051e86",
-		"size": 1564893515,
-		"url": "https://releases.stag-os.workers.dev/dumpling/StagOS-dumpling-11.0.R2-OFFICIAL-GApps-20210314-1216.zip",
-		"version": "11.0.R2"
-	}]
-}
+	"response":[
+	   {
+		  "datetime":1621771914,
+		  "filename":"StagOS-dumpling-11.0.R3.0-OFFICIAL-GApps-20210523-1214.zip",
+		  "id":"26715d8e68bef2fb412195e69809abd2207e490ec72c1150e55cfc6d64d7046d",
+		  "size":1065878475,
+		  "url":"http://api.stag-os.org/downloads/ota/dumpling/gapps",
+		  "version":"11.0.R3.0"
+	   }
+	]
+ }
