@@ -1,0 +1,12 @@
+{
+    "response":[
+       {
+          "datetime":1621758597,
+          "filename":"StagOS-beryllium-11.0.R3.0-OFFICIAL-GApps-20210523-0831.zip",
+          "id":"83648b12136e0cb97e54629cf348be0eb351e5c642fc52648def6500c2eef404",
+          "size":1157035505,
+          "url":"http://api.stag-os.org/downloads/ota/beryllium/gapps",
+          "version":"11.0.R3.0"
+       }
+    ]
+ }
