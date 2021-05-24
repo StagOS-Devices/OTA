@@ -1,1 +1,12 @@
-{ "response": [ { "datetime": 1640844463, "filename": "StagOS-avicii-11.0.R2.1-OFFICIAL-GApps-20210512-1834.zip", "id": "e56bf67d1cd914269106be57d502238f1db70977cd41f09d031f6c293a11d4a8", "size": 1906424661, "url": "https://test.stag-os.org/test/StagOS-avicii-11.0.R2.1-OFFICIAL-GApps-20210512-1834.zip", "version": "11.0.R2.1" }]}
+{
+  "response": [
+    {
+      "datetime": "1621837848",
+      "filename": "StagOS-avicii-11.0.R3.0-OFFICIAL-GApps-20210524-0632.zip",
+      "id": "b20292d7f2578491a5a1e019be796dd4294a8035c7635e13908d44b4569b6b84",
+      "size": "1596207627",
+      "url": "https://api.stag-os.org/downloads/ota/avicii/gapps",
+      "version": "11.0.R3.0"
+    }
+  ]
+}
