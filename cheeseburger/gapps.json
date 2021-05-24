@@ -1,10 +1,12 @@
 {
-	"response": [{
-		"datetime": 1615778441,
-		"filename": "StagOS-cheeseburger-11.0.R2-OFFICIAL-GApps-20210315-0322.zip",
-		"id": "e65a73832d69c8771ea4f48534731819cb897fad05c0f4bca3dc7accf62112ea",
-		"size": 1564713909,
-		"url": "https://releases.stag-os.workers.dev/cheeseburger/StagOS-cheeseburger-11.0.R2-OFFICIAL-GApps-20210315-0322.zip",
-		"version": "11.0.R2"
-	}]
+  "response": [
+    {
+      "datetime": "1621792564",
+      "filename": "StagOS-cheeseburger-11.0.R3.0-OFFICIAL-GApps-20210523-1757.zip",
+      "id": "67604adc8268cd0cc921b0aa4044be918bc8efcfd814626e8eca779f07fed331",
+      "size": "1065654718",
+      "url": "https://api.stag-os.org/downloads/ota/cheeseburger/gapps",
+      "version": "11.0.R3.0"
+    }
+  ]
 }
