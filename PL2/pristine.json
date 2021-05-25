@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1719794049",
-      "filename": "StagOS-PL2-11.0.R2.1-OFFICIAL-Pristine-20210430-1449.zip",
-      "id": "0ee5e687d7f9f63cf4ae8ff993a6d09fb0a3a5f291ab30ca53750dfd1c190ad6",
-      "size": "848162133",
-      "url": "https://test.stag-os.org/test/StagOS-PL2-11.0.R2.1-OFFICIAL-Pristine-20210430-1449.zip",
-      "version": "11.0.R2.1"
+      "datetime": "1621944597",
+      "filename": "StagOS-PL2-11.0.R3.0-OFFICIAL-Pristine-20210525-1211.zip",
+      "id": "116d0703b8651718adc5589ab011f0677248b450340b213f58b714dd7337de9f",
+      "size": "818832554",
+      "url": "https://api.stag-os.org/downloads/ota/PL2/pristine",
+      "version": "11.0.R3.0"
     }
   ]
 }

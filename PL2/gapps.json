@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1619387339",
-      "filename": "StagOS-PL2-11.0.R2.1-OFFICIAL-GApps-20210425-2150.zip",
-      "id": "81ddddf96f384b96ab12188077826803e24a44101f64eb364a22e0a074e9babf",
-      "size": "1279482768",
-      "url": "https://releases.stag-os.workers.dev/PL2/StagOS-PL2-11.0.R2.1-OFFICIAL-GApps-20210425-2150.zip",
-      "version": "11.0.R2.1"
+      "datetime": "1621944597",
+      "filename": "StagOS-PL2-11.0.R3.0-OFFICIAL-GApps-20210525-1319.zip",
+      "id": "62bf69480008e9d92b4464fe058df06458c206756e4b5fb7dcf5bb800d50bab3",
+      "size": "976867211",
+      "url": "https://api.stag-os.org/downloads/ota/PL2/gapps",
+      "version": "11.0.R3.0"
     }
   ]
 }
