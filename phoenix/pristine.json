@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": "1622042519",
+      "filename": "StagOS-phoenix-11.0.R3.0-OFFICIAL-Pristine-20210526-1523.zip",
+      "id": "8dca9d17a8989be81dc0258cdee4fc5b4f0fa2f5cabda2c985526b486c03af3a",
+      "size": "1086020538",
+      "url": "https://api.stag-os.org/downloads/ota/phoenix/pristine",
+      "version": "11.0.R3.0"
+    }
+  ]
+}
