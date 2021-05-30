@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": "1622394867",
+      "filename": "StagOS-garlic-11.0.R3.0-OFFICIAL-GApps-20210530-1940.zip",
+      "id": "16d07c4774bd8b1bbd0243461d6fb0d9b5edbb1ca067dbc4804292d78b6796bc",
+      "size": "1040038065",
+      "url": "https://api.stag-os.org/downloads/ota/garlic/gapps",
+      "version": "11.0.R3.0"
+    }
+  ]
+}
