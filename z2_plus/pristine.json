@@ -1,12 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "1621577728",
-      "filename": "StagOS-z2_plus-11.0.R3.0-OFFICIAL-Pristine-20210521-0616.zip",
-      "id": "a46ffbfa63e2c32cfb3fbbe3c88edc199e7248bf50d2cf64d1108a0eaea2f6a3",
-      "size": "883883727",
-      "url": "https://api.stag-os.org/downloads/ota/z2_plus/pristine",
-      "version": "11.0.R3.0"
-    }
-  ]
+    "response": [
+        {
+            "filename": "StagOS-z2_plus-11.0.R4-OFFICIAL-Pristine-20210715-1527.zip",
+            "datetime": "1626362777",
+            "url": "https://api.stag-os.org/downloads/ota/z2_plus/pristine",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "e2ce3e574be70a90147fb4105a8e2a95537f45059ae64dc28ba5d7b6875b9f64",
+            "size": 792131397
+        }
+    ]
 }
