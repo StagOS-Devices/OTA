@@ -1,12 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "1621682584",
-      "filename": "StagOS-RMX1831-11.0.R3.0-OFFICIAL-Pristine-20210522-1124.zip",
-      "id": "48e36a5e5c3f4dc5284a2837acdbe0542f6794ec3a7f5234831e362a690e47a5",
-      "size": "760011726",
-      "url": "https://api.stag-os.org/downloads/ota/RMX1831/pristine",
-      "version": "11.0.R3.0"
-    }
-  ]
+    "response": [
+        {
+            "filename": "StagOS-RMX1831-11.0.R4-OFFICIAL-Pristine-20210715-0827.zip",
+            "datetime": "1626337555",
+            "url": "https://api.stag-os.org/downloads/ota/RMX1831/pristine",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "561363748e064abe8ac4bfa0a0692c532a3b3aff1f9fbfce9505b51eb5fcc7c7",
+            "size": 891406103
+        }
+    ]
 }
