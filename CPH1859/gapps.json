@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-CPH1859-11.0.R4-OFFICIAL-GApps-20210715-0542.zip",
-            "datetime": "1626327630",
+            "filename": "StagOS-CPH1859-11.0.R4-OFFICIAL-GApps-20210717-1404.zip",
+            "datetime": "1626530512",
             "url": "https://api.stag-os.org/downloads/ota/CPH1859/gapps",
             "version": "11.0.R4",
             "romtype": "official",
-            "id": "de2ce09f3f4ae902fd644b0782b4bbe1548e2d6c4ea4bebbd2d9bac8a60ee01d",
-            "size": 1141261056
+            "id": "ab3df5b2fd4231efe41fe57777c9811d53caebbe95ccf9197a387ec90ad98c20",
+            "size": 1140764392
         }
     ]
 }

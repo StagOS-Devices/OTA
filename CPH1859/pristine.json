@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-CPH1859-11.0.R4-OFFICIAL-Pristine-20210715-0440.zip",
-            "datetime": "1626323960",
+            "filename": "StagOS-CPH1859-11.0.R4-OFFICIAL-Pristine-20210717-1301.zip",
+            "datetime": "1626526768",
             "url": "https://api.stag-os.org/downloads/ota/CPH1859/pristine",
             "version": "11.0.R4",
             "romtype": "official",
-            "id": "a9f0f19be550ab2afbfd75817c0b4f54b8fd689bb50662398f8411082b15e049",
-            "size": 679511554
+            "id": "f7859addaadf8b4947074d938079cbc099c55b51f696699c767f3cd216a2dcd1",
+            "size": 679463266
         }
     ]
 }
