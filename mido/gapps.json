@@ -1,12 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "1621652710",
-      "filename": "StagOS-mido-11.0.R3.0-OFFICIAL-GApps-20210522-0306.zip",
-      "id": "ce0c481f0d9ff2ec353ca80e2a65b7f391a0d7b81f869fe6316e1347c25386f8",
-      "size": "990761247",
-      "url": "https://api.stag-os.org/downloads/ota/mido/gapps",
-      "version": "11.0.R3.0"
-    }
-  ]
+    "response": [
+        {
+            "filename": "StagOS-mido-11.0.R4-OFFICIAL-GApps-20210717-1743.zip",
+            "datetime": "1626543682",
+            "url": "https://api.stag-os.org/downloads/ota/mido/gapps",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "e15138d0f9cbf63020a1adf58479b0b47de2f333ac3873d1f881717eaa7449c8",
+            "size": 1185354036
+        }
+    ]
 }
