@@ -1,12 +1,13 @@
 {
-	"response":[
-	   {
-		  "datetime":1621763138,
-		  "filename":"StagOS-dumpling-11.0.R3.0-OFFICIAL-Pristine-20210523-0948.zip",
-		  "id":"d10393adfbee047396e5b2b7870be7245f7709f63fba3f4dd374730e7d00a51c",
-		  "size":883935240,
-		  "url":"http://api.stag-os.org/downloads/ota/dumpling/pristine",
-		  "version":"11.0.R3.0"
-	   }
-	]
- }
+    "response": [
+        {
+            "filename": "StagOS-dumpling-11.0.R4-OFFICIAL-Pristine-20210721-0454.zip",
+            "datetime": "1626843164",
+            "url": "https://api.stag-os.org/downloads/ota/dumpling/pristine",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "1ab0386856efeadf036a92078ab77cbdd06c80826a7b5c195a053e9c8a49c52e",
+            "size": 793143659
+        }
+    ]
+}
