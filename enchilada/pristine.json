@@ -1,12 +1,13 @@
 {
-    "response":[
-       {
-          "datetime":1621763404,
-          "filename":"StagOS-enchilada-11.0.R3.0-OFFICIAL-Pristine-20210523-0951.zip",
-          "id":"4817ac939b08f3fefcb09eb15fbe274c1c93ba6d028dc37f7ccf2a88a1c76cb9",
-          "size":742490180,
-          "url":"http://api.stag-os.org/downloads/ota/enchilada/pristine",
-          "version":"11.0.R3.0"
-       }
+    "response": [
+        {
+            "filename": "StagOS-enchilada-11.0.R4-OFFICIAL-Pristine-20210720-1651.zip",
+            "datetime": "1626799766",
+            "url": "https://api.stag-os.org/downloads/ota/enchilada/pristine",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "f8788d5bc71373a72531f462f5d1f9b736dc1b65d9bc98cffff49bf1fdb58439",
+            "size": 652035809
+        }
     ]
- }
+}

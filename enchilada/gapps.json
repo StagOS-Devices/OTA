@@ -1,12 +1,13 @@
 {
-    "response":[
-       {
-          "datetime":1621771647,
-          "filename":"StagOS-enchilada-11.0.R3.0-OFFICIAL-GApps-20210523-1208.zip",
-          "id":"c145d2916a1880b285b60fa714ef14921303fcba687eb33e971245021175ab40",
-          "size":882082880,
-          "url":"http://api.stag-os.org/downloads/ota/enchilada/gapps",
-          "version":"11.0.R3.0"
-       }
+    "response": [
+        {
+            "filename": "StagOS-enchilada-11.0.R4-OFFICIAL-GApps-20210720-1905.zip",
+            "datetime": "1626807818",
+            "url": "https://api.stag-os.org/downloads/ota/enchilada/gapps",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "3e63047109f6d32fdfe2e62987bf5199e24ae63688edd88d1d3ddb9bb4578078",
+            "size": 1001852624
+        }
     ]
- }
+}
