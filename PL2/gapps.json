@@ -1,12 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": "1621944597",
-      "filename": "StagOS-PL2-11.0.R3.0-OFFICIAL-GApps-20210525-1319.zip",
-      "id": "62bf69480008e9d92b4464fe058df06458c206756e4b5fb7dcf5bb800d50bab3",
-      "size": "976867211",
-      "url": "https://api.stag-os.org/downloads/ota/PL2/gapps",
-      "version": "11.0.R3.0"
-    }
-  ]
+    "response": [
+        {
+            "filename": "StagOS-PL2-11.0.R4-OFFICIAL-GApps-20210801-1414.zip",
+            "datetime": "1627827161",
+            "url": "https://api.stag-os.org/downloads/ota/PL2/gapps",
+            "version": "11.0.R4",
+            "romtype": "official",
+            "id": "0ff7eae231190c10c9045d11da800190f24ce1d75320a60c62cf8c30b09dc333",
+            "size": 1143328492
+        }
+    ]
 }
