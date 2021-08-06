@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime":1627126749,
-            "filename":"StagOS-beryllium-11.0.R4-OFFICIAL-GApps-20210724-1141.zip",
+            "filename": "StagOS-beryllium-11.0.R4.1-OFFICIAL-Pristine-20210806-1250.zip",
+            "datetime": "1628254114",
             "url": "https://api.stag-os.org/downloads/ota/beryllium/pristine",
-            "version": "11.0.R4",
+            "version": "11.0.R4.1",
             "romtype": "official",
-            "id":"d6f42139c92a5ac0c9f387a1623938e18720086fe17720d8667af1321b197cc6",
-            "size":1337260002
+            "id": "671f94083598f6fd63122918ea772594509af29e40c6e0c369185801335c45c6",
+            "size": 886178409
         }
     ]
 }
