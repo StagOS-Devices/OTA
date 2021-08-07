@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-RMX1805-11.0.R4-OFFICIAL-GApps-20210715-1334.zip",
-            "datetime": "1626355906",
+            "filename": "StagOS-RMX1805-11.0.R4.1-OFFICIAL-GApps-20210806-1846.zip",
+            "datetime": "1628275462",
             "url": "https://api.stag-os.org/downloads/ota/RMX1805/gapps",
-            "version": "11.0.R4",
+            "version": "11.0.R4.1",
             "romtype": "official",
-            "id": "a1a4c24d895fc12cb9610046f67447b9c28c22a6190ab03497fc1651ee8ebc1e",
-            "size": 1105935304
+            "id": "a7c784a2e50f5cadf593b55311940cfe4559e0601f20aed106d157f1b20be6ac",
+            "size": 1107361354
         }
     ]
 }
