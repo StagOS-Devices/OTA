@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-alioth-11.0.R4.1-OFFICIAL-GApps-20210807-1659.zip",
+            "datetime": "1628355433",
+            "url": "https://api.stag-os.org/downloads/ota/alioth/gapps",
+            "version": "11.0.R4.1",
+            "romtype": "official",
+            "id": "e4e1bd9a0f59fb4bda811fdd44a4830e325666962d48d3c5233b8f1016c12064",
+            "size": 1545710615
+        }
+    ]
+}

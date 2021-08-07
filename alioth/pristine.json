@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-alioth-11.0.R4.1-OFFICIAL-Pristine-20210807-1422.zip",
+            "datetime": "1628346028",
+            "url": "https://api.stag-os.org/downloads/ota/alioth/pristine",
+            "version": "11.0.R4.1",
+            "romtype": "official",
+            "id": "244affe97c0fbe597a06ee07962bf753eaa7bcba0920ee75e650ce80d241d65a",
+            "size": 1116769663
+        }
+    ]
+}
