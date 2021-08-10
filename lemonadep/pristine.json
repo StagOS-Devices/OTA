@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-lemonadep-11.0.R4.1-OFFICIAL-Pristine-20210810-2017.zip",
+            "datetime": "1628626543",
+            "url": "https://api.stag-os.org/downloads/ota/lemonadep/pristine",
+            "version": "11.0.R4.1",
+            "romtype": "official",
+            "id": "65979560bb09413e1066f0621b16692ca41d367f40026f9472ff723aa3ad1864",
+            "size": 1305604977
+        }
+    ]
+}
