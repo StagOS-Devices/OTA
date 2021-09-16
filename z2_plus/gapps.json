@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-z2_plus-11.0.R4.1-OFFICIAL-GApps-20210807-0724.zip",
-            "datetime": "1628320904",
+            "filename": "StagOS-z2_plus-11.0.R5.0-OFFICIAL-GApps-20210916-2241.zip",
+            "datetime": "1631832005",
             "url": "https://api.stag-os.org/downloads/ota/z2_plus/gapps",
-            "version": "11.0.R4.1",
+            "version": "11.0.R5.0",
             "romtype": "official",
-            "id": "301e827d8d1f62fe660639a6b4c2324602b7f7181e951ae0a65cc1775bd007d3",
-            "size": 1256089435
+            "id": "d0ba04651f71383ed43844328d48bc3cf26eb1d69a490185ddbea6a93860ea67",
+            "size": 1257265564
         }
     ]
 }
