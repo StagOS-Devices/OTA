@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-RMX1821-11.0.R5.0-OFFICIAL-GApps-20210918-2100.zip",
+            "datetime": "1631998731",
+            "url": "https://api.stag-os.org/downloads/ota/RMX1821/gapps",
+            "version": "11.0.R5.0",
+            "romtype": "official",
+            "id": "00bfb48e3e0a5acfcd1f38ebba0a988cfd4576422867afe470cd4462fd889ef8",
+            "size": 1182417155
+        }
+    ]
+}
