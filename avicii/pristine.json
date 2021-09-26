@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-avicii-11.0.R4.1-OFFICIAL-Pristine-20210815-1609.zip",
-            "datetime": "1629043695",
+            "filename": "StagOS-avicii-11.0.R5.0-OFFICIAL-Pristine-20210926-2018.zip",
+            "datetime": "1632687380",
             "url": "https://api.stag-os.org/downloads/ota/avicii/pristine",
-            "version": "11.0.R4.1",
+            "version": "11.0.R5.0",
             "romtype": "official",
-            "id": "6ec678e4663bbe6d7cacf67091ecee7d6736704c607fee157fe99775daf3b79f",
-            "size": 1349450139
+            "id": "8a9a51769e7422915cba3e83a3cd10cd3a430b8d909e0a6086758c756634acf9",
+            "size": 1353365538
         }
     ]
 }
