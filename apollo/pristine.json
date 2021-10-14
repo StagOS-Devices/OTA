@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-apollo-11.0.R5.1-OFFICIAL-Pristine-20211014-0600.zip",
+            "datetime": "1634191148",
+            "url": "https://api.stag-os.org/downloads/ota/apollo/pristine",
+            "version": "11.0.R5.1",
+            "romtype": "official",
+            "id": "6cc670972940d1a18f812bd92465a697f7df7372b227dc28d8521e08c98f8316",
+            "size": 1176696123
+        }
+    ]
+}
