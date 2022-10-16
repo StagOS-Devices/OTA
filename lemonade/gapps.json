@@ -1,13 +1,17 @@
 {
     "response": [
         {
-            "filename": "StagOS-lemonade-12.1-OFFICIAL-GApps-20220907-1606.zip",
-            "datetime": "1662566653",
-            "url": "https://sourceforge.net/projects/stagos-12/files/lemonade/StagOS-lemonade-12.1-OFFICIAL-GApps-20220907-1606.zip/download",
-            "version": "12.1",
-            "romtype": "official",
-            "id": "b4b6a6423456cca4aa1e92d5192ce59b174518ab1df3ad22847fdb59cd762bb8",
-            "size": 2568097752
+            "datetime": "1665928168",
+            "filename": "StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed.zip",
+            "id": "bafd63186476d4bcc5faaa0c5985848e2c1699022d91a4ae766b8643275d8d83",
+            "size": 2505695212,
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed.zip/download",
+            "incremental_filename": "incremnetal-ota-package.zip",
+            "incremental_id": "89udhbbbe01eiout93cb22bb8f586yui",
+            "incremental_size": 0,
+            "incremental_url": "https://example.com/incremental-ota-package.zip",      
+            "version": "13.0",
+            "romtype": "official"
         }
     ]
 }
