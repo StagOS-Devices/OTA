@@ -11,7 +11,7 @@
             "incremental_size": 107271422,
             "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/incremental/StagOS-lemonadep-13.0-BETA-Pristine-20221024-1613-signed-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20221016-1513-signed-target_files.zip/download",      
             "version": "13.0",
-            "romtype": "official"
+            "romtype": "beta"
         }
     ]
 }

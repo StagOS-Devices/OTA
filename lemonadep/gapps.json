@@ -11,7 +11,7 @@
             "incremental_size": 235563833,
             "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/incremental/StagOS-lemonadep-13.0-BETA-GApps-20221024-1423-signed-target_files-StagOS-lemonadep-13.0-BETA-GApps-20221016-1552-signed-target_files.zip/download",      
             "version": "13.0",
-            "romtype": "official"
+            "romtype": "beta"
         }
     ]
 }
