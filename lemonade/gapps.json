@@ -1,15 +1,15 @@
 {
     "response": [
         {
-            "datetime": "1665928168",
-            "filename": "StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed.zip",
-            "id": "bafd63186476d4bcc5faaa0c5985848e2c1699022d91a4ae766b8643275d8d83",
-            "size": 2505695212,
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed.zip/download",
-            "incremental_filename": "incremnetal-ota-package.zip",
-            "incremental_id": "89udhbbbe01eiout93cb22bb8f586yui",
-            "incremental_size": 0,
-            "incremental_url": "https://example.com/incremental-ota-package.zip",      
+            "datetime": "1666631280",
+            "filename": "StagOS-lemonade-13.0-BETA-GApps-20221024-1809-signed.zip",
+            "id": "960a39bd5719e98ac3f0d1c108d7b76125aab742a6b9a2c417c338e9c6fc0039",
+            "size": 2470416726,
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-GApps-20221024-1809-signed.zip/download",
+            "incremental_filename": "StagOS-lemonade-13.0-BETA-GApps-20221024-1809-signed-target_files-StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed-target_files.zip",
+            "incremental_id": "61abe56baf5e0674abcd2a950992b4570daa3840629c2c65e726a0e544c0399c",
+            "incremental_size": 236035107,
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/incremental/StagOS-lemonade-13.0-BETA-GApps-20221024-1809-signed-target_files-StagOS-lemonade-13.0-BETA-GApps-20221016-1352-signed-target_files.zip/download",      
             "version": "13.0",
             "romtype": "official"
         }

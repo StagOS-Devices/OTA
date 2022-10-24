@@ -1,15 +1,15 @@
 {
     "response": [
         {
-            "datetime": "1665928168",
-            "filename": "StagOS-lemonade-13.0-BETA-Pristine-20221016-1453-signed.zip",
-            "id": "1064f49d0c7bf102027b754618d5a1233c27373a5af6be1abd24ae61de8634a0",
-            "size": 1857311056,
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-Pristine-20221016-1453-signed.zip/download",
-            "incremental_filename": "incremnetal-ota-package.zip",
-            "incremental_id": "89udhbbbe01eiout93cb22bb8f586yui",
-            "incremental_size": 0,
-            "incremental_url": "https://example.com/incremental-ota-package.zip",      
+            "datetime": "1666631280",
+            "filename": "StagOS-lemonade-13.0-BETA-Pristine-20221024-1711-signed.zip",
+            "id": "f2326909e308d6b162c2e81b66b3abc53c93f76884c84432222acba607123ec0",
+            "size": 1870818751,
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-Pristine-20221024-1711-signed.zip/download",
+            "incremental_filename": "StagOS-lemonade-13.0-BETA-Pristine-20221024-1711-signed-target_files-StagOS-lemonade-13.0-BETA-Pristine-20221016-1453-signed-target_files.zip",
+            "incremental_id": "0209b5f63eac6166d2551cb0d1d082cb8fbd0d65f9aafd0e87951c0cc484d533",
+            "incremental_size": 107344954,
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/incremental/StagOS-lemonade-13.0-BETA-Pristine-20221024-1711-signed-target_files-StagOS-lemonade-13.0-BETA-Pristine-20221016-1453-signed-target_files.zip/download",
             "version": "13.0",
             "romtype": "official"
         }
