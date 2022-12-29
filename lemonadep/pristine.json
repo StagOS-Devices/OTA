@@ -1,17 +1,13 @@
 {
     "response": [
         {
-            "datetime": "1666460990",
-            "filename": "StagOS-lemonadep-13.0-BETA-Pristine-20221024-1613-signed.zip",
-            "id": "ef4aae8a5539451904fc9d73447782829295f76d054e37278753ea1fda94ee99",
-            "size": 1873637254,
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-BETA-Pristine-20221024-1613-signed.zip/download",
-            "incremental_filename": "StagOS-lemonadep-13.0-BETA-Pristine-20221024-1613-signed-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20221016-1513-signed-target_files.zip",
-            "incremental_id": "d684a405adc5ded98797da07b984b4ad945b8a3a2ee4149158bddab77f18e6d0",
-            "incremental_size": 107271422,
-            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/incremental/StagOS-lemonadep-13.0-BETA-Pristine-20221024-1613-signed-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20221016-1513-signed-target_files.zip/download",      
+            "filename": "StagOS-lemonadep-13.0-BETA-Pristine-20221228-1144.zip",
+            "datetime": "1672227732",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-BETA-Pristine-20221228-1144.zip/download",
             "version": "13.0",
-            "romtype": "beta"
+            "romtype": "official",
+            "id": "6d8dab3c705a549e36dd9dcce15cb906601dd510c6f702f9afebc89eee89ce9e",
+            "size": 1956691734
         }
     ]
 }

@@ -1,17 +1,13 @@
 {
     "response": [
         {
-            "datetime": "1665933088",
-            "filename": "StagOS-lemonadep-13.0-BETA-GApps-20221024-1423-signed.zip",
-            "id": "177b503d42e48fa804a65e0798c910b58b0508e808dffe42e040c41b92a6092f",
-            "size": 2472971405,
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-BETA-GApps-20221024-1423-signed.zip/download",
-            "incremental_filename": "StagOS-lemonadep-13.0-BETA-GApps-20221024-1423-signed-target_files-StagOS-lemonadep-13.0-BETA-GApps-20221016-1552-signed-target_files.zip",
-            "incremental_id": "44b87469dc977b9ac22c5649c857e1ebce0b7b54f20aba77e6e8d8829b95cf79",
-            "incremental_size": 235563833,
-            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/incremental/StagOS-lemonadep-13.0-BETA-GApps-20221024-1423-signed-target_files-StagOS-lemonadep-13.0-BETA-GApps-20221016-1552-signed-target_files.zip/download",      
+            "filename": "StagOS-lemonadep-13.0-BETA-GApps-20221228-1302.zip",
+            "datetime": "1672232419",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-BETA-GApps-20221228-1302.zip/download",
             "version": "13.0",
-            "romtype": "beta"
+            "romtype": "official",
+            "id": "70d34e0b976a756abbc8fbf65d852dcc25fc38ad957aee49052bf4b8db2ee42a",
+            "size": 2612068169
         }
     ]
 }
