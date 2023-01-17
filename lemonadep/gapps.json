@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-lemonadep-13.0-BETA-GApps-20221228-1302.zip",
-            "datetime": "1672232419",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-BETA-GApps-20221228-1302.zip/download",
+            "filename": "StagOS-lemonadep-13.0-OFFICIAL-GApps-20230116-0931.zip",
+            "datetime": "1673861338",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.0-OFFICIAL-GApps-20230116-0931.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "70d34e0b976a756abbc8fbf65d852dcc25fc38ad957aee49052bf4b8db2ee42a",
-            "size": 2612068169
+            "id": "43ac3949b3fa234ab5966b1452611c726a05d93e9b3894172f5e7aaec03bfd4b",
+            "size": 2460194454
         }
     ]
 }
