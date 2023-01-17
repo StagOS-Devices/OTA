@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-lemonade-13.0-BETA-Pristine-20221228-0906.zip",
-            "datetime": "1672218258",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-BETA-Pristine-20221228-0906.zip/download",
+            "filename": "StagOS-lemonade-13.0-OFFICIAL-Pristine-20230116-0621.zip",
+            "datetime": "1673849962",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.0-OFFICIAL-Pristine-20230116-0621.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "890f18e19b12cc3fdafe009553ae77e1a03ddc71d3d8ac8bc916986a3750b541",
-            "size": 1954454768
+            "id": "d75c6ef717b8c3c92c855ab6db50538ae2d24838cba442da2760a749c356667e",
+            "size": 1803554116
         }
     ]
 }
