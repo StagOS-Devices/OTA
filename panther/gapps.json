@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-panther-13.0-OFFICIAL-GApps-20230108-1606-updatepackage.zip",
-            "datetime": "1673193893",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/panther/StagOS-panther-13.0-OFFICIAL-GApps-20230108-1606-updatepackage.zip/download",
+            "filename": "StagOS-panther-13.0-OFFICIAL-GApps-20230118-1029-updatepackage.zip",
+            "datetime": "1674037620",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/panther/StagOS-panther-13.0-OFFICIAL-GApps-20230118-1029-updatepackage.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "859eb442ef9c97f2c10ef038877936dbad7d565b1bee33ee8b8e456e1d21f116",
-            "size": 2596340313
+            "id": "bafc0b30c425b52ee667e3a1a8b3a7a5ab54a2fddb8f0924c9068074a7babca2",
+            "size": 2533593534
         }
     ]
 }
