@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "filename": "StagOS-beryllium-13.0-BETA-Pristine-20221229-0902.zip",
-            "datetime": "1672304434",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/beryllium/StagOS-beryllium-13.0-BETA-Pristine-20221229-0902.zip/download",
+            "filename": "StagOS-beryllium-13.0-OFFICIAL-Pristine-20230115-1937.zip",
+            "datetime": "1673811331",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/beryllium/StagOS-beryllium-13.0-OFFICIAL-Pristine-20230115-1937.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "bfe2871a030ad9976e66eff7030bfa66051f78bd865b831b09e1bbf8a573b3c4",
-            "size": 1051840531
+            "id": "00ae85ad6b454e4eb0a3ca44c3c5c6577f389cdd04a52a284be96f16dd388469",
+            "size": 1060282639
         }
     ]
 }
