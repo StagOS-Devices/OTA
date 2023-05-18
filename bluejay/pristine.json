@@ -1,13 +1,17 @@
 {
     "response": [
         {
-            "filename": "StagOS-bluejay-13.0-OFFICIAL-Pristine-20230217-0956.zip",
-            "datetime": "1676627752",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/bluejay/StagOS-bluejay-13.0-OFFICIAL-Pristine-20230217-0956.zip/download",
+            "filename": "StagOS-bluejay-13.1-OFFICIAL-Pristine-20230518-0611.zip",
+            "datetime": "1684390259",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/bluejay/StagOS-bluejay-13.1-OFFICIAL-Pristine-20230518-0611.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "2dbad8aaac5784bdeace35465511d2b418b3f26e0be29df1cbb6386f185c2f63",
-            "size": 1363901977
+            "incremental_filename": "NA",
+            "incremental_id": "NA",
+            "incremental_size": 0,
+            "incremental_url": "NA",
+            "id": "50d7a34d3e1aa5091d402dfc959e72de4edc78ed6190fb780b948fd4e59ff14b",
+            "size": 1361695050
         }
     ]
 }
