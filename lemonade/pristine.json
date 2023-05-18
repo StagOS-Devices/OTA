@@ -4,12 +4,12 @@
             "filename": "StagOS-lemonade-13.1-OFFICIAL-Pristine-20230517-2326.zip",
             "datetime": "1684365916",
             "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.1-OFFICIAL-Pristine-20230517-2326.zip/download",
-            "version": "13.0",
+            "version": "13.1",
             "romtype": "official",
-            "incremental_filename": "NA",
-            "incremental_id": "NA",
-            "incremental_size": 0,
-            "incremental_url": "NA",
+            "incremental_filename": "StagOS-lemonade-13.1-OFFICIAL-Pristine-20230517-2326.zip",
+            "incremental_id": "7509738a0e6e2187d3da39409fbc35126b92acfffe8f25b08049d547c6e50258",
+            "incremental_size": 2013504573,
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.1-OFFICIAL-Pristine-20230517-2326.zip/download",
             "id": "7509738a0e6e2187d3da39409fbc35126b92acfffe8f25b08049d547c6e50258",
             "size": 2013504573
         }

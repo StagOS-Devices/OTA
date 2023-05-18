@@ -4,12 +4,12 @@
             "filename": "StagOS-lemonade-13.1-OFFICIAL-GApps-20230518-0012.zip",
             "datetime": "1684368731",
             "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.1-OFFICIAL-GApps-20230518-0012.zip/download",
-            "version": "13.0",
+            "version": "13.1",
             "romtype": "official",
-            "incremental_filename": "NA",
-            "incremental_id": "NA",
-            "incremental_size": 0,
-            "incremental_url": "NA",
+            "incremental_filename": "StagOS-lemonade-13.1-OFFICIAL-GApps-20230518-0012.zip",
+            "incremental_id": "4424a961ba719c9e18b6da0e3457d8b2b1c5c28ae865e199853d5ed32e2c93b1",
+            "incremental_size": 2672599929,
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonade/StagOS-lemonade-13.1-OFFICIAL-GApps-20230518-0012.zip/download",
             "id": "4424a961ba719c9e18b6da0e3457d8b2b1c5c28ae865e199853d5ed32e2c93b1",
             "size": 2672599929
         }
