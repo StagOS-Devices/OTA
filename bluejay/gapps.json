@@ -1,13 +1,17 @@
 {
     "response": [
         {
-            "filename": "StagOS-bluejay-13.0-OFFICIAL-GApps-20230217-1045.zip",
-            "datetime": "1676630620",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/bluejay/StagOS-bluejay-13.0-OFFICIAL-GApps-20230217-1045.zip/download",
+            "filename": "StagOS-bluejay-13.1-OFFICIAL-GApps-20230518-1334.zip",
+            "datetime": "1684416846",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/bluejay/StagOS-bluejay-13.1-OFFICIAL-GApps-20230518-1334.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "id": "f9caa86c5d1657a56b40a7522bd8b026072889e1dbc2bbd40ec715e49d651719",
-            "size": 2055355987
+            "incremental_filename": "StagOS-bluejay-13.1-OFFICIAL-GApps-20230518-1334.zip",
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/bluejay/StagOS-bluejay-13.1-OFFICIAL-GApps-20230518-1334.zip/download",
+            "id": "629c328e4fa6393922e54dd82633422963c1090394efed134ccf73b7dcac95ba",
+            "incremental_id": "629c328e4fa6393922e54dd82633422963c1090394efed134ccf73b7dcac95ba",
+            "size": 2064910913,
+            "incremental_size": 2064910913
         }
     ]
 }
