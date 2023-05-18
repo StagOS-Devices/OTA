@@ -6,10 +6,10 @@
             "url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.1-OFFICIAL-Pristine-20230517-2201.zip/download",
             "version": "13.0",
             "romtype": "official",
-            "incremental_filename": "NA",
-            "incremental_id": "NA",
-            "incremental_size": 0,
-            "incremental_url": "NA",
+            "incremental_filename": "StagOS-lemonadep-13.1-OFFICIAL-Pristine-20230517-2201.zip",
+            "incremental_id": "2459bcf5448827a7a1aaa9fa614e57e6ed0f4461ee34a2fe0bb80a7d3cb3edd3",
+            "incremental_size": 2017003308,
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/lemonadep/StagOS-lemonadep-13.1-OFFICIAL-Pristine-20230517-2201.zip/download",
             "id": "2459bcf5448827a7a1aaa9fa614e57e6ed0f4461ee34a2fe0bb80a7d3cb3edd3",
             "size": 2017003308
         }
