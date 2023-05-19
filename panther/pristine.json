@@ -1,13 +1,17 @@
 {
     "response": [
         {
-            "filename": "StagOS-panther-13.0-OFFICIAL-Pristine-20230224-0957-updatepackage.zip",
-            "datetime": "1677232562",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/panther/StagOS-panther-13.0-OFFICIAL-Pristine-20230224-0957-updatepackage.zip/download",
-            "version": "13.0",
+            "filename": "StagOS-panther-13.1-OFFICIAL-Pristine-20230518-2235-signed.zip",
+            "datetime": "1684449242",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/panther/StagOS-panther-13.1-OFFICIAL-Pristine-20230518-2235-signed.zip/download",
+            "version": "13.1",
             "romtype": "official",
-            "id": "63c32f0ab77d08215b6e933791642ead5f6feef5852cadd108a90da1b8ba7b57",
-            "size": 1693947235
+            "incremental_filename": "StagOS-panther-13.1-OFFICIAL-Pristine-20230518-2235-signed.zip",
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/panther/StagOS-panther-13.1-OFFICIAL-Pristine-20230518-2235-signed.zip/download",
+            "id": "dc48b58d1ae8ba608e39b06c5dc15d045cf55402782189fae8ebf63fe62193e8",
+            "incremental_id": "dc48b58d1ae8ba608e39b06c5dc15d045cf55402782189fae8ebf63fe62193e8",
+            "size": 1388444473,
+            "incremental_size": 1388444473
         }
     ]
 }
