@@ -1,13 +1,17 @@
 {
     "response": [
         {
-            "filename": "StagOS-beryllium-13.0-OFFICIAL-Pristine-20230218-1229.zip",
-            "datetime": "1676723262",
-            "url": "https://sourceforge.net/projects/stagos-12/files/13/beryllium/StagOS-beryllium-13.0-OFFICIAL-Pristine-20230218-1229.zip/download",
-            "version": "13.0",
+            "filename": "StagOS-beryllium-13.1-OFFICIAL-Pristine-20230524-1157-signed.zip",
+            "datetime": "1684929401",
+            "url": "https://sourceforge.net/projects/stagos-12/files/13/beryllium/StagOS-beryllium-13.1-OFFICIAL-Pristine-20230524-1157-signed.zip/download",
+            "version": "13.1",
             "romtype": "official",
-            "id": "7fb8f26b75b71d57d4aa9fab2480b8d1f68a2e54feccc133a84b178adc6800b4",
-            "size": 1066412123
+            "incremental_filename": "StagOS-beryllium-13.1-OFFICIAL-Pristine-20230524-1157-signed.zip",
+            "incremental_url": "https://sourceforge.net/projects/stagos-12/files/13/beryllium/StagOS-beryllium-13.1-OFFICIAL-Pristine-20230524-1157-signed.zip/download",
+            "id": "cfd783213df84623a0a5c96c15f8dafbc21ab04835c910821d4b5cd6a2e67ec2",
+            "incremental_id": "cfd783213df84623a0a5c96c15f8dafbc21ab04835c910821d4b5cd6a2e67ec2",
+            "size": 1076760057,
+            "incremental_size": 1076760057
         }
     ]
 }
