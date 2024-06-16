@@ -1,1 +1,78 @@
-This is Device changelog
+# Device Specific Changes
+* Has Dolby Atmos
+* Oplus Camera
+* Falls back to Widevine L3 to fix Netflix
+* Power button press unlock animation position fixed
+
+# Source Version
+* QPR 3 June Patch
+* Android 13.0.0_r50
+* Enforcing Build
+* Play Integrity passed (CTS/SafetyNet)
+* Play Store Certified
+
+# Features
+## General
+* OTA Updates (Both Incremental and Full)
+* Face Unlock
+* Allowing to not use face unlock for secure apps using biometric prompt (By default when you enable face unlock, it will be used for secure apps too and automatically unlock them). The only way to not use face unlock for secure apps is to disable face unlock or disable biometric prompt for secure apps. This feature allows you to use face unlock for unlocking the device but not for secure apps.
+* Lockscreen clock customizations from Pixel
+* Gaming Mode
+* Wifi and Bluetooth Timeout (Allowing to turn off wifi and bluetooth after a certain time)
+* Internal Audio Recording (Screen Recording)
+* Allow changing System Theme (pitch black, espresso, etc)
+* Added back 2 button navigation
+* Improvised UDFPS location (As our device sensor is too low, we re arrange the other elements to make it look better without any cut off)
+* Separate Wifi and Mobile Data QS Tiles (Everyone hated the combined one)
+* Add/Remove QS Tiles with one click
+* Rounded UI (Settings, QS, etc)
+* We remove the background from back gesture handle (Looks better without it)
+* Allow changing position of volume panel (Default is right)
+* Photos and Games Spoof (For unlimited photos storage and higher graphics settings)
+* Our customised Settings UI (We have a customised settings UI which looks better than the stock one)
+* Pattern visibility toggle and Variable size pattern lockscreen
+* Pin quick unlock
+* Scramble pin layout
+* Advanced Reboot
+* App Lock
+* ADB Root (Only for userdebug builds, will be disabled in user builds i.e. release builds)
+* Double tap to wake
+* Scren off FOD
+* Power off alarm
+* Scheduling Always On Display
+* Data Switch QS Tile
+* OOS Style clear all button
+* Play sound on clear all notifications (OOS Style)
+* RGB color balance (in display settings)
+* Pocket Mode (Prevent accidental touches and wakeups)
+* Smart 5G (Switch to 4G smartly to save battery)
+* Monet customization (Accent color, theming, shades, etc)
+* Clone Apps
+* Network Traffic Monitor
+* Hotspot Client Manager (Block unwanted clients and manage connected clients)
+* Hotspot: Hidden SSID preference (Allow to hide SSID of hotspot)
+* Three finger swipe to screenshot
+* Statusbar tuner (Allow to hide icons from statusbar)
+* Added Wifi and Mobile Data panels
+* Play Integrity Updater (To update fingerprint without flashing the whole ROM)
+* Statusbar brightness control
+* AOD on charge only (Show Always On Display only when charging)
+* Windows ignore secure flag (Allow to take screenshots in secure apps)
+
+## Launcher
+* Beautified and Reorganized Launcher Settings
+* Themed Icons (Also supports forcing unsupported apps to be themed)
+* Icon and Font Size Customizations
+* At A Glance (SmartSpace, only on GApps variant)
+* Double Tap to Sleep on Homescreen and Lockscreen
+* App Drawer Opacity Customizations
+* Recents Quick Action (Clear All, ScreenShot and Lens) Toggleable
+* Recents opacity customizations
+* Background Blur Customizations
+* Clear all sound (From OnePlus)
+* App Grid Customizations
+* Icon Shape Support
+* App Icon Shape Customizations
+
+# Fun Facts
+* Stagified Flashing Experience
