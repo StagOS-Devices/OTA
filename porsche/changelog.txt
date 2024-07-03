@@ -1,78 +1,33 @@
 # Device Specific Changes
-* Has Dolby Atmos
-* Oplus Camera
-* Falls back to Widevine L3 to fix Netflix
-* Power button press unlock animation position fixed
+* Fixed Audio Lag on BGMI
 
 # Source Version
-* QPR 3 June Patch
-* Android 13.0.0_r50
+* July Patch
+* Android 14.0.0_r54
 * Enforcing Build
 * Play Integrity passed (CTS/SafetyNet)
 * Play Store Certified
 
 # Features
 ## General
-* OTA Updates (Both Incremental and Full)
-* Face Unlock
-* Allowing to not use face unlock for secure apps using biometric prompt (By default when you enable face unlock, it will be used for secure apps too and automatically unlock them). The only way to not use face unlock for secure apps is to disable face unlock or disable biometric prompt for secure apps. This feature allows you to use face unlock for unlocking the device but not for secure apps.
-* Lockscreen clock customizations from Pixel
-* Gaming Mode
-* Wifi and Bluetooth Timeout (Allowing to turn off wifi and bluetooth after a certain time)
-* Internal Audio Recording (Screen Recording)
-* Allow changing System Theme (pitch black, espresso, etc)
-* Added back 2 button navigation
-* Improvised UDFPS location (As our device sensor is too low, we re arrange the other elements to make it look better without any cut off)
-* Separate Wifi and Mobile Data QS Tiles (Everyone hated the combined one)
-* Add/Remove QS Tiles with one click
-* Rounded UI (Settings, QS, etc)
-* We remove the background from back gesture handle (Looks better without it)
-* Allow changing position of volume panel (Default is right)
-* Photos and Games Spoof (For unlimited photos storage and higher graphics settings)
-* Our customised Settings UI (We have a customised settings UI which looks better than the stock one)
-* Pattern visibility toggle and Variable size pattern lockscreen
-* Pin quick unlock
-* Scramble pin layout
-* Advanced Reboot
-* App Lock
-* ADB Root (Only for userdebug builds, will be disabled in user builds i.e. release builds)
-* Double tap to wake
-* Scren off FOD
-* Power off alarm
-* Scheduling Always On Display
-* Data Switch QS Tile
-* OOS Style clear all button
-* Play sound on clear all notifications (OOS Style)
-* RGB color balance (in display settings)
-* Pocket Mode (Prevent accidental touches and wakeups)
-* Smart 5G (Switch to 4G smartly to save battery)
-* Monet customization (Accent color, theming, shades, etc)
-* Clone Apps
-* Network Traffic Monitor
-* Hotspot Client Manager (Block unwanted clients and manage connected clients)
-* Hotspot: Hidden SSID preference (Allow to hide SSID of hotspot)
-* Three finger swipe to screenshot
-* Statusbar tuner (Allow to hide icons from statusbar)
-* Added Wifi and Mobile Data panels
-* Play Integrity Updater (To update fingerprint without flashing the whole ROM)
-* Statusbar brightness control
-* AOD on charge only (Show Always On Display only when charging)
-* Windows ignore secure flag (Allow to take screenshots in secure apps)
+* We are trying to add something new to the QS, and one steo of the process is the transparent QS Panel (ofc you don't like it, you can disable it)
+* Allow to modify the rows columns and much more of QS Tile rows and columns
+* Brightness bar now has a much needed position toggle, with the default being sane bottom position
+* We slightly reworked the advanced restart menu to accomodate for other actions.
+* You want to beautify status bar notifications, we now allow you to use app icons (or what we call colored notification icons) or if you like it simple you can use the newly added notification counter.
+* I know it's security but it could get quite annoying seeing the privacy indicators (when camera and location are on), now you can disable that.
+* LTE looks lame, you can now toggle it to show 4G/4G+ instead.
+* Now you can kill an app right from it's notification. Long tap on a notification to see the magic.
+* And a long lost feature of stag, the clear theme or the transparent theme is now back. Go to `Settings>Display>Dark Theme>Use Custom Theme`
+* For devices with variable refresh rate, now you have an option to select between different refresh rates.
+* Not everyone likes the clipboard overlay (the pop up that shows at the bottom left corner on copying something). You can disable it now.
+* You can enable/disable haptic feedback on volume sliders and brightness, feels more lively that way.
+* QS tiles now have haptic feedback
+* Center volume panel, the bottom one looks straight up ugly. We are in process of making it much better.
+* Added a lot of sane defaults and under the hood smoothenss fixes
 
-## Launcher
-* Beautified and Reorganized Launcher Settings
-* Themed Icons (Also supports forcing unsupported apps to be themed)
-* Icon and Font Size Customizations
-* At A Glance (SmartSpace, only on GApps variant)
-* Double Tap to Sleep on Homescreen and Lockscreen
-* App Drawer Opacity Customizations
-* Recents Quick Action (Clear All, ScreenShot and Lens) Toggleable
-* Recents opacity customizations
-* Background Blur Customizations
-* Clear all sound (From OnePlus)
-* App Grid Customizations
-* Icon Shape Support
-* App Icon Shape Customizations
+# Fixes
+* Settings > wallpaper now opens a default picker
 
-# Fun Facts
-* Stagified Flashing Experience
+# Known Issues
+* None
