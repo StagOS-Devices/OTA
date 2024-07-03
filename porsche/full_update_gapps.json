@@ -1,17 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1718564604,
-      "filename": "StagOS-porsche-14.3.0-OFFICIAL-GApps-20240616-1825-signed.zip",
-      "url": "https://sourceforge.net/projects/stagos-14/files/porsche/StagOS-porsche-14.3.0-OFFICIAL-GApps-20240616-1825-signed.zip/download",
-      "md5": "f0aed88774f9ca70394f193609b0ba0b",
+      "datetime": 1720029443,
+      "filename": "StagOS-porsche-14.3.1-OFFICIAL-GApps-20240703-1749-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-porsche-14.3.1-OFFICIAL-GApps-20240703-1749-signed.zip/download",
+      "md5": "09116c68942c83db8855f50817d94078",
       "payload": [
         {
-          "offset": 4002,
-          "FILE_HASH": "50ElBOO/nACYPfdOsOP3FZ28Hfd2oPL8tp6pxVU10A4=",
-          "FILE_SIZE": "2953912429",
-          "METADATA_HASH": "ZHSZUJ/3SlReJV+a5brHCS1Nj+vpCyQFP2wYgJJLr2A=",
-          "METADATA_SIZE": "174685"
+          "offset": 4045,
+          "FILE_HASH": "RoCpz93BhNl43tH3JR03vGoWuRqcX+EEweaGqAktW8A=",
+          "FILE_SIZE": "2985225934",
+          "METADATA_HASH": "MjNymCrTXgro8XZVngSlXNLIKvGG/pbXXty/U2S+SQc=",
+          "METADATA_SIZE": "176170"
         }
       ]
     }

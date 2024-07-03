@@ -1,18 +1,20 @@
 {
-    "response": [
-      {
-        "datetime": 1714518830,
-        "filename": "StagOS-Test",
-        "expected_version": "1.0",
-        "payload": [
-          {
-            "offset": 3835,
-            "FILE_HASH": "3b2",
-            "FILE_SIZE": "3",
-            "METADATA_HASH": "3b2",
-            "METADATA_SIZE": "3"
-          }
-        ]
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": 1720029863,
+      "filename": "StagOS-porsche-incremental-GApps-20240616-1825-20240703-1749.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/GApps/incremental//download",
+      "md5": "0709f0bb7e62228442b50ca4900d7d3e",
+      "payload": [
+        {
+          "offset": 5039,
+          "FILE_HASH": "idmjSpB6KKezntUpDPfV3CyU38wIPtTszNbdf/DuGGQ=",
+          "FILE_SIZE": "82367009",
+          "METADATA_HASH": "I7bHrZMNvzkj7qaxrckz42gN0fB0RvzjMwL8JCFOL8w=",
+          "METADATA_SIZE": "563952"
+        }
+      ]
+          ,"expected_filename": "StagOS-porsche-14.3.0-OFFICIAL-GApps-20240616-1825-signed.zip"
+    }
+  ]
+}

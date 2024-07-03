@@ -1,17 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1718564573,
-      "filename": "StagOS-porsche-14.3.0-OFFICIAL-Pristine-20240616-1622-signed.zip",
-      "url": "https://sourceforge.net/projects/stagos-14/files/porsche/StagOS-porsche-14.3.0-OFFICIAL-Pristine-20240616-1622-signed.zip/download",
-      "md5": "36c0e147be5d7836a27461ff94b9fde1",
+      "datetime": 1720028461,
+      "filename": "StagOS-porsche-14.3.1-OFFICIAL-Pristine-20240703-1734-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-porsche-14.3.1-OFFICIAL-Pristine-20240703-1734-signed.zip/download",
+      "md5": "99b0d5c80ead41e9765a62017c40ee2f",
       "payload": [
         {
-          "offset": 4002,
-          "FILE_HASH": "F3E89T/b1lerj0ZPxBzhNqEQHtzOJnK8R1pVN8h/n58=",
-          "FILE_SIZE": "2101914133",
-          "METADATA_HASH": "XCFCCR0WjEFvVBHnCyhSFnVYx+DYPukraF6b6ShMcrE=",
-          "METADATA_SIZE": "179450"
+          "offset": 4045,
+          "FILE_HASH": "xXhvUMg2Yd4mkNtPIlC1a27FIVGyytWTFE4vCxWVXSg=",
+          "FILE_SIZE": "2136354646",
+          "METADATA_HASH": "IOqrO7X47HLUTqrsJQE1Rg7FCrmB/PmyMqaPQwqXL+k=",
+          "METADATA_SIZE": "181227"
         }
       ]
     }

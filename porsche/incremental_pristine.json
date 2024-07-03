@@ -1,18 +1,20 @@
 {
-    "response": [
-      {
-        "datetime": 1714518830,
-        "filename": "StagOS-Test",
-        "expected_version": "1.0",
-        "payload": [
-          {
-            "offset": 3835,
-            "FILE_HASH": "3b2",
-            "FILE_SIZE": "3",
-            "METADATA_HASH": "3b2",
-            "METADATA_SIZE": "3"
-          }
-        ]
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": 1720028888,
+      "filename": "StagOS-porsche-incremental-Pristine-20240616-1622-20240703-1734.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/Pristine/incremental//download",
+      "md5": "78b9de55fbbeb60604390faa7fc60d0e",
+      "payload": [
+        {
+          "offset": 5039,
+          "FILE_HASH": "TsKkk3VJDet2K0yMNExcbfOsig/OHM3bCDLWwXzOpBk=",
+          "FILE_SIZE": "84680272",
+          "METADATA_HASH": "uv+tRbkOoTDI4mPc4t2zj5vU/WslDniVBxBu+dengw8=",
+          "METADATA_SIZE": "490459"
+        }
+      ]
+          ,"expected_filename": "StagOS-porsche-14.3.0-OFFICIAL-Pristine-20240616-1622-signed.zip"
+    }
+  ]
+}
