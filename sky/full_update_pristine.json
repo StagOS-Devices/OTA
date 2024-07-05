@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720097651,
+      "filename": "StagOS-sky-14.3.1-OFFICIAL-Pristine-20240704-1236-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-sky-14.3.1-OFFICIAL-Pristine-20240704-1236-signed.zip/download",
+      "md5": "d17b7784e8d7e33e80e289b0048459e2",
+      "payload": [
+        {
+          "offset": 3868,
+          "FILE_HASH": "F+z/9/+hM8FL9B8yzMxfUOF0PNtnQnv+g8aouC0b8UE=",
+          "FILE_SIZE": "1130859541",
+          "METADATA_HASH": "5KJJHbeyBnY3J6ZNp6YAZKMTNvgj3GgNASgHqojSUZ4=",
+          "METADATA_SIZE": "107463"
+        }
+      ]
+    }
+  ]
+}

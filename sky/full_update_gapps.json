@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720098042,
+      "filename": "StagOS-sky-14.3.1-OFFICIAL-GApps-20240704-1255-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-sky-14.3.1-OFFICIAL-GApps-20240704-1255-signed.zip/download",
+      "md5": "8e743f43449fad74ca8fb65e54d3c4e9",
+      "payload": [
+        {
+          "offset": 3868,
+          "FILE_HASH": "BoIIK88OelH6D6x6AhYehv6WMabPLlusO/vcDFIIdwI=",
+          "FILE_SIZE": "1997745777",
+          "METADATA_HASH": "l14WQ/lsUd25QY+B4sqwQ1MBA1pxaejjzLTbH3KZmts=",
+          "METADATA_SIZE": "161229"
+        }
+      ]
+    }
+  ]
+}
