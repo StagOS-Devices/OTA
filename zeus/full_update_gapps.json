@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720068146,
+      "filename": "StagOS-zeus-14.3.1-OFFICIAL-GApps-20240704-0435-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-zeus-14.3.1-OFFICIAL-GApps-20240704-0435-signed.zip/download",
+      "md5": "6e519add6f164de08b2b0993a85c5b0c",
+      "payload": [
+        {
+          "offset": 4185,
+          "FILE_HASH": "7DM4KQ0UwcNIGLZ6P6LXNFFpH6OLhy3jf8hf3SbO02c=",
+          "FILE_SIZE": "2673344798",
+          "METADATA_HASH": "3+XOP9RQwQcEjNFFOLagxkbYNz5KY8I7z1OiGOIM2Ws=",
+          "METADATA_SIZE": "212162"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720067632,
+      "filename": "StagOS-zeus-14.3.1-OFFICIAL-Pristine-20240704-0346-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-zeus-14.3.1-OFFICIAL-Pristine-20240704-0346-signed.zip/download",
+      "md5": "0dea8eab3c0cb669f7c3590c1b598e3d",
+      "payload": [
+        {
+          "offset": 4185,
+          "FILE_HASH": "+wQ3eDLcDldjUHPqxBFrYKZEyMP8UU5ympDq8XISzWc=",
+          "FILE_SIZE": "1808790030",
+          "METADATA_HASH": "mLTeLDH97SdmqsJCNiyLVBILJc0GpY1tJwmk6sYIqY4=",
+          "METADATA_SIZE": "158746"
+        }
+      ]
+    }
+  ]
+}
