@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720548116,
+      "filename": "StagOS-Pong-14.3.1-OFFICIAL-GApps-20240709-1756-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-Pong-14.3.1-OFFICIAL-GApps-20240709-1756-signed.zip/download",
+      "md5": "eab759630ee6f904212e02f277bc20ed",
+      "payload": [
+        {
+          "offset": 3982,
+          "FILE_HASH": "lhLOiCCwwcwStjykWK5/gNR5wIAsrgdJ0LGMwr9TfFs=",
+          "FILE_SIZE": "2472302388",
+          "METADATA_HASH": "HFvl+ikuD/2NI7+3/V4DrTMRLr2D+hHGvWCWInbp3FM=",
+          "METADATA_SIZE": "165065"
+        }
+      ]
+    }
+  ]
+}

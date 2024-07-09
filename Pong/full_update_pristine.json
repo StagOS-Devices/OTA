@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1720547724,
+      "filename": "StagOS-Pong-14.3.1-OFFICIAL-Pristine-20240709-1738-signed.zip",
+      "url": "https://sourceforge.net/projects/stagos-14/files/OFFICIAL/StagOS-Pong-14.3.1-OFFICIAL-Pristine-20240709-1738-signed.zip/download",
+      "md5": "c8a2a67023c32e898fb49bca3600c61b",
+      "payload": [
+        {
+          "offset": 3982,
+          "FILE_HASH": "jG6x8U9hfRK1mOYtHrKZdHqRtacUswKZrlfWAP4lopo=",
+          "FILE_SIZE": "1605487799",
+          "METADATA_HASH": "mfP0MjUQrbtL0iFBaRqGMcH4DPrgamR56v2lA6YvXyw=",
+          "METADATA_SIZE": "111287"
+        }
+      ]
+    }
+  ]
+}
